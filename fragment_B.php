@@ -1,3 +1,5 @@
+<?php
+
 class PriceFormatter {
 
     public function format(float $n): string {
